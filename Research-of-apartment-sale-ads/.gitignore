@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.xlsx
+
+# Virtual environment folders
+.env/
+venv/
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/

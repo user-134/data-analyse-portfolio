@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.log
+*.tmp
+
+# Output and plot folders
+output/
+plots/
+
+# Jupyter and Python history
+.history
+.python_history
+
+# Env config
+.env
+.env.*
+
+# PyCharm
+.idea/
+
+# OS generated files
+Thumbs.db

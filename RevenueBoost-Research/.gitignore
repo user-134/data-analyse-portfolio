@@ -1,0 +1,28 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (опционально — если не хочешь хранить сырые/временные данные в репозитории)
+data/raw_*.csv
+data/cleaned_*.csv
+*.csv
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode or other IDE configs
+.vscode/
+.idea/
