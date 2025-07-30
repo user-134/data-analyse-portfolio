@@ -1,5 +1,11 @@
 # 🏠 Исследование объявлений о продаже квартир
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=matplotlib)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
 ## 📌 Описание проекта
 
 В рамках проекта проведён анализ архива объявлений сервиса **Яндекс.Недвижимость** о продаже квартир в Санкт-Петербурге и ближайших населённых пунктах.  
@@ -28,15 +34,6 @@
 3. Формулирование выводов:
    - Описание влияющих факторов
    - Выводы для дальнейшего построения модели
-
----
-
-## 🛠️ Используемые библиотеки
-
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 
 ---
 

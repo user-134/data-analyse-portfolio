@@ -35,20 +35,6 @@
 
 ---
 
-## 🧰 Используемые библиотеки
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import datetime as dt
-import seaborn as sns
-from datetime import datetime, timedelta
-from scipy import stats as st
-import scipy.stats as stats
-from pandas.plotting import register_matplotlib_converters
-import warnings
-
 ## 📈 Основные выводы по результатам A/B-теста
 
 ### ✅ Конверсия

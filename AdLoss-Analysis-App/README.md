@@ -1,10 +1,12 @@
 # 🎯 Исследование убытков рекламных кампаний приложения Procrastinate Pro+
 
-![Pandas](https://img.shields.io/badge/Pandas-150%25-blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-150%25-orange)
-![NumPy](https://img.shields.io/badge/NumPy-150%25-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-150%25-purple)
-![SciPy](https://img.shields.io/badge/SciPy-150%25-red)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=matplotlib)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue?logo=seaborn)
+![SciPy](https://img.shields.io/badge/SciPy-Statistics-green?logo=scipy)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
 ---
 
